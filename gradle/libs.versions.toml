@@ -1,5 +1,5 @@
 [versions]
-spring-boot = "2.5.6"
+spring-boot = "2.6.3"
 nokee = "0.5.0-930919a0"
 
 [plugins]
